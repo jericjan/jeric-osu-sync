@@ -10,6 +10,7 @@ Simply download it, extract, and run Sync.
 
 Oh, and you gotta do this for some reason. Windows doesn't trust it, but I assure you it's safe.
 <img src="https://i.imgur.com/YCuiShV.png">
+
 Then, you can also unblock it in the properties before extracting to make sure it runs properly.
 <img src="https://i.imgur.com/iUc6t9c.png">
 

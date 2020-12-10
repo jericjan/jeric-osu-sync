@@ -7,7 +7,7 @@ Well, that's because that guy didn't update it anymore. So, temporarily, I will 
 
 Simply **download** it, **extract**, and **run** Sync.
 
->> [Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar). <<
+\>\> [Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar). <<
 
 - Oh, and you gotta do this for some reason. Windows doesn't trust it, but I assure you it's safe.
 <img src="https://i.imgur.com/YCuiShV.png">

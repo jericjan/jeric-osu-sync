@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## DOWNLOAD THE PP COUNTER HERE!
 
-You can use the [editor on GitHub](https://github.com/jericjan/jeric-osu-sync/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So, uh, you've probably noticed that this isn't the site that's shown in my tutorial video....
+Well, that's because that guy didn't update it anymore. So, temporarily, I will be taking over with the updated compiled version of Sync.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ADVANCED VERSION:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simply download it, extract, and run Sync. (You might wanna go into the properties 
 
 ```markdown
 Syntax highlighted code block

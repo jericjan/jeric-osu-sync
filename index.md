@@ -9,4 +9,4 @@ Simply download it, extract, and run Sync. (You might wanna go into the properti
 
 [Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar).
 
-If it still isn't working, please contact me on Discord: dsc.bio/jamsandwich47
+If it still isn't working, please contact me on Discord: [dsc.bio/jamsandwich47](dsc.bio/jamsandwich47)

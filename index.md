@@ -9,6 +9,10 @@ Simply **download** it, **extract**, and **run** Sync.
 
 \>\> [Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar). <<
 
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+
 - Oh, and you gotta do this for some reason. Windows doesn't trust it, but I assure you it's safe.
 <img src="https://i.imgur.com/YCuiShV.png">
 

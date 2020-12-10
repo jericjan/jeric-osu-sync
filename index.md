@@ -7,9 +7,6 @@ Well, that's because that guy didn't update it anymore. So, temporarily, I will 
 
 Simply **download** it, **extract**, and **run** Sync.
 
-\>\> [Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar). <<
-
-
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a class="github-button" href="https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>

@@ -8,9 +8,9 @@ Well, that's because that guy didn't update it anymore. So, temporarily, I will 
 Simply **download** it, **extract**, and **run** Sync.
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 <a class="github-button" href="https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">DOWNLOAD THE ADVANCED VERSION</a>  
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 
 - Oh, and you gotta do this for some reason. Windows doesn't trust it, but I assure you it's safe.

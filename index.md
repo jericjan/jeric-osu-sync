@@ -7,6 +7,6 @@ Well, that's because that guy didn't update it anymore. So, temporarily, I will 
 
 Simply download it, extract, and run Sync. (You might wanna go into the properties and Unblock it before extracting) 
 
-[Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/raw/gh-pages/Jeric's_Sync_Collection0913.rar).
+[Jeric's_Sync_Collection0913.rar](https://github.com/jericjan/jeric-osu-sync/releases/download/9%2F13/Jeric.s_Sync_Collection0913.rar).
 
 If it still isn't working, please contact me on Discord: dsc.bio/jamsandwich47

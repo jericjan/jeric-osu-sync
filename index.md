@@ -12,6 +12,6 @@ Oh, and you gotta do this for some reason. Windows doesn't trust it, but I assur
 <img src="https://i.imgur.com/YCuiShV.png">
 
 Then, you can also unblock it in the properties before extracting to make sure it runs properly.
-<img src="https://i.imgur.com/iUc6t9c.png">
+<img src="https://i.imgur.com/AmSL3kE.png">
 
 If it still isn't working, please contact me on Discord: [dsc.bio/jamsandwich47](https://discord.bio/p/jamsandwich47)
